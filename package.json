@@ -1,0 +1,26 @@
+{
+  "name": "node-shard-id",
+  "version": "0.0.1",
+  "description": "Shard Id Generator (64 bits)",
+  "main": "index.js",
+  "dependencies": {
+    "int64-native": "^0.3.2"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lscoder/lonid-gen.git"
+  },
+  "keywords": [
+    "id",
+    "generator",
+    "long",
+    "database",
+    "shard",
+    "64bits",
+    "snowflake"
+  ],
+  "author": "Leonardo da Silva Campos <leonardoscampos@gmail.com>"
+}
